@@ -114,7 +114,9 @@ main img{
     padding: 0.5rem;
     border-radius: 5px;
     color: aliceblue;
-    min-width: 250px;
+    min-width: 15rem;
+    min-height: 8rem;
+    
 }
 
 .max_vendidos_1{
@@ -169,12 +171,13 @@ table.max_vendidos_1 td {
     color: #adb5bd;
     opacity: 86%;
     filter: drop-shadow(0 8px 8px rgba(97, 94, 94, 0.1));
+    margin-left: 10px;
 }
 
 
 .grafico_ingresos img{
-    height: 30vh;
-    width: 25vw;
+    height: 27vh;
+    width: 27vw;
     border-radius: 5px;
 }
 
